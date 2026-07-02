@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "skills": {
+    "adk": {
+      "source": "botpress/skills",
+      "sourceType": "github",
+      "skillPath": "skills/adk/SKILL.md",
+      "computedHash": "0b29b2542a90f136f624a93b1e14b6d0ee0e4d2511b6300e8dacfac9ad466b0d"
+    },
+    "adk-debugger": {
+      "source": "botpress/skills",
+      "sourceType": "github",
+      "skillPath": "skills/adk-debugger/SKILL.md",
+      "computedHash": "1461c2cbb1ef6729ff014c9809c3100209ed0354bf46a9d355dab2219860555a"
+    },
+    "adk-dev-console": {
+      "source": "botpress/skills",
+      "sourceType": "github",
+      "skillPath": "skills/adk-dev-console/SKILL.md",
+      "computedHash": "f569db3814a3cc6be4c27ea90b96cce1c48cc338f528318bc4dd447de8d4e1d4"
+    },
+    "adk-docs": {
+      "source": "botpress/skills",
+      "sourceType": "github",
+      "skillPath": "skills/adk-docs/SKILL.md",
+      "computedHash": "0bfd5734fc0345c107a309bf5c97e205a7404c83cfe6cd357696aef65e96b3d1"
+    },
+    "adk-evals": {
+      "source": "botpress/skills",
+      "sourceType": "github",
+      "skillPath": "skills/adk-evals/SKILL.md",
+      "computedHash": "1f5f31d2c854a4a83d98e7c174b0650905fd56c37790802f6e0dc515a5b94972"
+    },
+    "adk-frontend": {
+      "source": "botpress/skills",
+      "sourceType": "github",
+      "skillPath": "skills/adk-frontend/SKILL.md",
+      "computedHash": "6d89fe011ce8ce8eb44b4e0be0d80a78f223bb802d66905760b4a1828f4bdb75"
+    }
+  }
+}
