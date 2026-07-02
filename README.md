@@ -13,7 +13,7 @@ An AI-powered customer service chatbot for Bella's Restaurant, built with the Bo
 
 ## Demo
 
-[Try the live bot here]([YOUR_BOTPRESS_WEBCHAT_LINK](https://cdn.botpress.cloud/webchat/v3.6/shareable.html?configUrl=https://files.bpcontent.cloud/2026/07/01/08/20260701085032-TZ48GHU5.json))
+[Try the live bot here](https://cdn.botpress.cloud/webchat/v3.6/shareable.html?configUrl=https://files.bpcontent.cloud/2026/07/01/08/20260701085032-TZ48GHU5.json)
 
 ## Built With
 
@@ -55,8 +55,7 @@ A Botpress Agent built with the ADK.
 - `src/knowledge/` - Add knowledge base files
 
 ## Preview
-![Chatbot Preview](<img width="1136" height="754" alt="Conv exlpl 01" src="https://github.com/user-attachments/assets/61ec3a61-c18d-470a-93b9-c922d8cb3a71" />
-)
+![Chatbot Preview](https://github.com/user-attachments/assets/61ec3a61-c18d-470a-93b9-c922d8cb3a71)
 
 ## Learn More
 
