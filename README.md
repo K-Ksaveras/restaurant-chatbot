@@ -1,5 +1,3 @@
-# restaurant-agent-01
-
 # Bella's Restaurant AI Chatbot
 
 An AI-powered customer service chatbot for Bella's Restaurant, built with the Botpress ADK. Handles menu enquiries, allergen information, opening hours, and table reservations through natural conversation.
